@@ -1,0 +1,4 @@
+E:/STM32/STM32C542CC_LSM6DSV16X_LIS2MDL_Project1/STM32C542CC_IIS3DWB10IS_Project1_cmake/generated/hal/mx_system.c:32:17:mx_system_init	8	static
+E:/STM32/STM32C542CC_LSM6DSV16X_LIS2MDL_Project1/STM32C542CC_IIS3DWB10IS_Project1_cmake/generated/hal/mx_system.c:134:6:SysTick_Handler	8	static
+E:/STM32/STM32C542CC_LSM6DSV16X_LIS2MDL_Project1/STM32C542CC_IIS3DWB10IS_Project1_cmake/generated/hal/mx_system.c:144:24:pre_system_init_hook	4	static
+E:/STM32/STM32C542CC_LSM6DSV16X_LIS2MDL_Project1/STM32C542CC_IIS3DWB10IS_Project1_cmake/generated/hal/mx_system.c:156:24:post_system_init_hook	4	static
