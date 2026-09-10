@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/build/debug_GCC_STM32C542CCT6/cmake_install.cmake",
+		"E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/build/debug_GCC_STM32C542CCT6/arch/cmsis/cmake_install.cmake",
+		"E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/build/debug_GCC_STM32C542CCT6/stm32c5xx_dfp/cmake_install.cmake",
+		"E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/build/debug_GCC_STM32C542CCT6/stm32c5xx_drivers/cmake_install.cmake",
+		"E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/build/debug_GCC_STM32C542CCT6/utilities/syscalls/cmake_install.cmake",
+		"E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/build/debug_GCC_STM32C542CCT6/generated/hal/cmake_install.cmake",
+		"E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/build/debug_GCC_STM32C542CCT6/generated/utilities/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,6 @@
+E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/main.c:54:5:main	88	static
+E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/main.c:178:16:platform_write	40	static
+E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/main.c:192:16:platform_read	40	static
+E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/main.c:206:13:tx_com	24	static
+E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/main.c:216:13:platform_delay	16	static
+E:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/main.c:222:13:platform_init	8	static
