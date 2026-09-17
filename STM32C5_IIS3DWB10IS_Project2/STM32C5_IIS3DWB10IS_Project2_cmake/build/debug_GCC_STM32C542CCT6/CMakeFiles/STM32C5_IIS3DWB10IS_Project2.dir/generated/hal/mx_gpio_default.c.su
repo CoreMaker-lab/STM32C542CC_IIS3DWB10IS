@@ -1,0 +1,5 @@
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:878:22:LL_AHB2_GRP1_EnableClock	48	static,ignoring_inline_asm
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:1355:22:HAL_RCC_GPIOA_EnableClock	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:1363:22:HAL_RCC_GPIOB_EnableClock	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_gpio_default.c:30:17:mx_gpio_default_init	16	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_gpio_default.c:71:17:mx_gpio_default_deinit	8	static

@@ -1,0 +1,3 @@
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_icache.c:34:22:mx_icache_init	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_icache.c:46:6:mx_icache_deinit	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_icache.c:51:22:mx_icache_gethandle	4	static

@@ -1,0 +1,4 @@
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_dfp/Include/stm32c5xx.h:244:22:SCB_SetVTOR	16	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_dfp/Include/stm32c5xx.h:383:22:SCB_EnableFPU	4	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/user_modifiable/Device/STM32C542CCT6/system_stm32c5xx.c:148:6:SystemInit	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/user_modifiable/Device/STM32C542CCT6/system_stm32c5xx.c:196:6:SystemCoreClockUpdate	16	static

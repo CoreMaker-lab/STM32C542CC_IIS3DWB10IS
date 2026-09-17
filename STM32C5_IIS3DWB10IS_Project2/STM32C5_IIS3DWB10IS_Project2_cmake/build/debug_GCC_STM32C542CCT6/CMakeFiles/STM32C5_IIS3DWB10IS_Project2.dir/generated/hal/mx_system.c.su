@@ -1,0 +1,4 @@
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_system.c:32:17:mx_system_init	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_system.c:134:6:SysTick_Handler	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_system.c:144:24:pre_system_init_hook	4	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_system.c:156:24:post_system_init_hook	4	static

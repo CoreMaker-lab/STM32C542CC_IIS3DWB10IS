@@ -1,0 +1,12 @@
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:878:22:LL_AHB2_GRP1_EnableClock	48	static,ignoring_inline_asm
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:1586:22:LL_APB1_GRP1_EnableClock	48	static,ignoring_inline_asm
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:1745:22:LL_APB1_GRP1_DisableClock	40	static,ignoring_inline_asm
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:1814:22:LL_APB1_GRP1_ForceReset	16	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:1883:22:LL_APB1_GRP1_ReleaseReset	16	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:1363:22:HAL_RCC_GPIOB_EnableClock	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:1830:22:HAL_RCC_I2C1_EnableClock	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:2028:22:HAL_RCC_I2C1_DisableClock	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:3500:22:HAL_RCC_I2C1_Reset	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_i2c1.c:32:19:mx_i2c1_i2c_init	32	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_i2c1.c:85:6:mx_i2c1_i2c_deinit	8	static
+D:/STM32C5/STM32C5_IIS3DWB10IS_Project2/STM32C5_IIS3DWB10IS_Project2_cmake/generated/hal/mx_i2c1.c:97:19:mx_i2c1_i2c_gethandle	4	static
